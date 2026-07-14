@@ -29,9 +29,9 @@
 
 ### 📈 GitHub Stats
 
-[
-  ![Sompong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SompongSOUKPHALEE&show_icons=true&theme=radical)
-](https://github.com/SompongSOUKPHALEE)
+<a href="https://github.com/sompongsoukphalee99">
+  <img src="https://github-readme-stats.vercel.app/api?username=sompongsoukphalee99&show_icons=true&theme=radical" alt="Sompong's GitHub Stats" />
+</a>
 
 ---
 
