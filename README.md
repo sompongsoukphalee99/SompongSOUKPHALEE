@@ -29,7 +29,9 @@
 
 ### 📈 GitHub Stats
 
-![Sompong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SompongSOUKPHALEE&show_icons=true&theme=radical)
+[
+  ![Sompong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SompongSOUKPHALEE&show_icons=true&theme=radical)
+](https://github.com/SompongSOUKPHALEE)
 
 ---
 
